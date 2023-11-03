@@ -42,7 +42,6 @@ body {
 }
 
 .title-color {
-    -webkit-text-stroke: 1px var(--color-black);
     opacity: 0.9;
     color: var(--color-grey);
 }
@@ -70,7 +69,6 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 17px;
-
 }
 
 .left-side {
@@ -97,7 +95,7 @@ body {
     text-shadow: 4px -4px 5px rgba(0, 0, 0, 0.52);
 }
 
-.left-side-title-second span {
+.left-side-title-second {
     color: var(--color-blue);
 }
 
@@ -130,6 +128,10 @@ body {
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
+}
+
+.header-group-en {
+    -webkit-text-stroke: 1px var(--color-black);
 }
 
 .header-group-ru {
@@ -324,7 +326,6 @@ body {
     -webkit-box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.18);
     -moz-box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.18);
     box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.18);
-
 }
 
 .main__cards-list img {
