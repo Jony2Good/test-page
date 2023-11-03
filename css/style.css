@@ -97,7 +97,7 @@ body {
     text-shadow: 4px -4px 5px rgba(0, 0, 0, 0.52);
 }
 
-.left-side-title-second p {
+.left-side-title-second span {
     color: var(--color-blue);
 }
 
