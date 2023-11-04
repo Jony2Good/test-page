@@ -12,4 +12,5 @@
   - именование изображений, классов и стилей и прочих компонентов идет через snake_case
   - простой и понятный ко
 
-# Результат https://jony2good.github.io/test-page/
+# Результат 
+- https://jony2good.github.io/test-page/
